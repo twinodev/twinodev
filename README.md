@@ -18,7 +18,7 @@
 
 ### 📫 Connect With Me
 - ✉️ [tjuniemma@gmail.com](mailto:tjuniemma@gmail.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/emmanuel-twinomujuni)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/twinomujuni-emmanuel-538783311?)
 - 📍 Mbarara, Uganda
 
 ---
