@@ -17,7 +17,7 @@
 - Open to **hackathons, internships, and open-source**
 
 ### 📫 Connect With Me
-- ✉️ [twinomujuni.emmanuel@must.ac.ug](mailto:twinomujuni.emmanuel@must.ac.ug)
+- ✉️ [tjuniemma@gmail.com](mailto:tjuniemma@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/emmanuel-twinomujuni)
 - 📍 Mbarara, Uganda
 
