@@ -18,9 +18,9 @@
 - Open to **hackathons, internships, and open-source**
 
 ### 📫 Connect With Me
-- ✉️ [tjuniemma@gmail.com](mailto:tjuniemma@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/twinomujuni-emmanuel-538783311?)
-[![X @twinodev](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='170' height='20'><rect rx='3' width='170' height='20' fill='%23000000'/><text x='30' y='14' font-family='Verdana' font-size='11' fill='white'>@twinodev</text><text x='8' y='14' font-family='Verdana' font-size='12' fill='white'>X</text></svg>)](https://x.com/twinodev)
+[![Email](https://img.shields.io/badge/Email-tjuniemma@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tjuniemma@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Twinomujuni_Emmanuel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/twinomujuni-emmanuel-538783311)
+  [![X | @twinodev](https://img.shields.io/badge/X-@twinodev-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/twinodev)
 - 📍 Mbarara, Uganda
 
 ---
