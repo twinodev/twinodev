@@ -5,6 +5,7 @@
 > **CS Student @ Mbarara University of Science & Technology (MUST)**  
 > Turning code into solutions — one algorithm at a time. 💻
 [![TwinoDev](https://img.shields.io/badge/TwinoDev-Frosting%20Factory-ff69b4?style=for-the-badge&logo=sparkles&logoColor=white)](https://twino.dev/)
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/VY44H6DSDJKJ4)
 
 ---
 
@@ -32,6 +33,9 @@
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+---
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/VY44H6DSDJKJ4)
+---
 
 We welcome all contributions — especially **new frosting algorithms** and **gluten-free modes**.
 
