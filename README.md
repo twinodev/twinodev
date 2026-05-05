@@ -11,8 +11,8 @@
 
 ### 🌱 Currently Learning
 - Python, Java, Data Structures & Algorithms
-- Web Development (React,HTML, CSS, JavaScript)
-- Exploring **Blockchain Development**
+- Web Development (Flask, HTML, CSS, JavaScript)
+- Exploring **Problem Solutions**
 
 ### 🔭 Working On
 - Personal projects in Python & Web
